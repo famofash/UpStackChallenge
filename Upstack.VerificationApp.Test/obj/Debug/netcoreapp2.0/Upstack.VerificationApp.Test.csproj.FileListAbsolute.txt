@@ -1,0 +1,28 @@
+C:\Users\Myrioi-User\Documents\Visual Studio 2017\Projects\Upstack.VerificationApp.API\Upstack.VerificationApp.Test\bin\Debug\netcoreapp2.0\Upstack.VerificationApp.Test.deps.json
+C:\Users\Myrioi-User\Documents\Visual Studio 2017\Projects\Upstack.VerificationApp.API\Upstack.VerificationApp.Test\bin\Debug\netcoreapp2.0\Upstack.VerificationApp.Test.runtimeconfig.json
+C:\Users\Myrioi-User\Documents\Visual Studio 2017\Projects\Upstack.VerificationApp.API\Upstack.VerificationApp.Test\bin\Debug\netcoreapp2.0\Upstack.VerificationApp.Test.runtimeconfig.dev.json
+C:\Users\Myrioi-User\Documents\Visual Studio 2017\Projects\Upstack.VerificationApp.API\Upstack.VerificationApp.Test\bin\Debug\netcoreapp2.0\Upstack.VerificationApp.Test.dll
+C:\Users\Myrioi-User\Documents\Visual Studio 2017\Projects\Upstack.VerificationApp.API\Upstack.VerificationApp.Test\bin\Debug\netcoreapp2.0\Upstack.VerificationApp.Test.pdb
+C:\Users\Myrioi-User\Documents\Visual Studio 2017\Projects\Upstack.VerificationApp.API\Upstack.VerificationApp.Test\obj\Debug\netcoreapp2.0\Upstack.VerificationApp.Test.csprojAssemblyReference.cache
+C:\Users\Myrioi-User\Documents\Visual Studio 2017\Projects\Upstack.VerificationApp.API\Upstack.VerificationApp.Test\obj\Debug\netcoreapp2.0\Upstack.VerificationApp.Test.csproj.CoreCompileInputs.cache
+C:\Users\Myrioi-User\Documents\Visual Studio 2017\Projects\Upstack.VerificationApp.API\Upstack.VerificationApp.Test\obj\Debug\netcoreapp2.0\Upstack.VerificationApp.Test.AssemblyInfoInputs.cache
+C:\Users\Myrioi-User\Documents\Visual Studio 2017\Projects\Upstack.VerificationApp.API\Upstack.VerificationApp.Test\obj\Debug\netcoreapp2.0\Upstack.VerificationApp.Test.AssemblyInfo.cs
+C:\Users\Myrioi-User\Documents\Visual Studio 2017\Projects\Upstack.VerificationApp.API\Upstack.VerificationApp.Test\obj\Debug\netcoreapp2.0\Upstack.VerificationApp.Test.dll
+C:\Users\Myrioi-User\Documents\Visual Studio 2017\Projects\Upstack.VerificationApp.API\Upstack.VerificationApp.Test\obj\Debug\netcoreapp2.0\Upstack.VerificationApp.Test.pdb
+C:\Users\Myrioi-User\Documents\Visual Studio 2017\Projects\Upstack.VerificationApp.API\Upstack.VerificationApp.Test\bin\Debug\netcoreapp2.0\Upstack.VerificationApp.API.dll
+C:\Users\Myrioi-User\Documents\Visual Studio 2017\Projects\Upstack.VerificationApp.API\Upstack.VerificationApp.Test\bin\Debug\netcoreapp2.0\Upstack.VerificationApp.API.pdb
+C:\Users\Myrioi-User\Documents\Visual Studio 2017\Projects\Upstack.VerificationApp.API\Upstack.VerificationApp.Test\obj\Debug\netcoreapp2.0\Upstack.VerificationApp.Test.csproj.CopyComplete
+C:\Users\Myrioi-User\source\repos\UpStackChallenge\Upstack.VerificationApp.Test\bin\Debug\netcoreapp2.0\Upstack.VerificationApp.Test.deps.json
+C:\Users\Myrioi-User\source\repos\UpStackChallenge\Upstack.VerificationApp.Test\bin\Debug\netcoreapp2.0\Upstack.VerificationApp.Test.runtimeconfig.json
+C:\Users\Myrioi-User\source\repos\UpStackChallenge\Upstack.VerificationApp.Test\bin\Debug\netcoreapp2.0\Upstack.VerificationApp.Test.runtimeconfig.dev.json
+C:\Users\Myrioi-User\source\repos\UpStackChallenge\Upstack.VerificationApp.Test\bin\Debug\netcoreapp2.0\Upstack.VerificationApp.Test.dll
+C:\Users\Myrioi-User\source\repos\UpStackChallenge\Upstack.VerificationApp.Test\bin\Debug\netcoreapp2.0\Upstack.VerificationApp.Test.pdb
+C:\Users\Myrioi-User\source\repos\UpStackChallenge\Upstack.VerificationApp.Test\bin\Debug\netcoreapp2.0\Upstack.VerificationApp.API.dll
+C:\Users\Myrioi-User\source\repos\UpStackChallenge\Upstack.VerificationApp.Test\bin\Debug\netcoreapp2.0\Upstack.VerificationApp.API.pdb
+C:\Users\Myrioi-User\source\repos\UpStackChallenge\Upstack.VerificationApp.Test\obj\Debug\netcoreapp2.0\Upstack.VerificationApp.Test.csprojAssemblyReference.cache
+C:\Users\Myrioi-User\source\repos\UpStackChallenge\Upstack.VerificationApp.Test\obj\Debug\netcoreapp2.0\Upstack.VerificationApp.Test.csproj.CoreCompileInputs.cache
+C:\Users\Myrioi-User\source\repos\UpStackChallenge\Upstack.VerificationApp.Test\obj\Debug\netcoreapp2.0\Upstack.VerificationApp.Test.AssemblyInfoInputs.cache
+C:\Users\Myrioi-User\source\repos\UpStackChallenge\Upstack.VerificationApp.Test\obj\Debug\netcoreapp2.0\Upstack.VerificationApp.Test.AssemblyInfo.cs
+C:\Users\Myrioi-User\source\repos\UpStackChallenge\Upstack.VerificationApp.Test\obj\Debug\netcoreapp2.0\Upstack.VerificationApp.Test.csproj.CopyComplete
+C:\Users\Myrioi-User\source\repos\UpStackChallenge\Upstack.VerificationApp.Test\obj\Debug\netcoreapp2.0\Upstack.VerificationApp.Test.dll
+C:\Users\Myrioi-User\source\repos\UpStackChallenge\Upstack.VerificationApp.Test\obj\Debug\netcoreapp2.0\Upstack.VerificationApp.Test.pdb
